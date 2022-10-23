@@ -6,5 +6,5 @@ author_profile: true
 ---
 My dog Boba （a very active and athleticCorgi!)
 
-<img src="https:///images/boba.jpeg" width="200" height="200"/>
+<img src="./images/boba.jpeg" width="200" height="200"/>
 
