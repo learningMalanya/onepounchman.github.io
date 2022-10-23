@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-excerpt: "My dog Boba <br/><img src='/files/photos/boba.jpeg'>"
+
 
 
