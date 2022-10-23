@@ -5,6 +5,6 @@ permalink: /photos/
 author_profile: true
 ---
 
-111
+![My dog Boba](/images/boba.jpeg)
 
 
