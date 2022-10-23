@@ -1,9 +1,10 @@
 ---
-title: "Efficient nonparametric estimation of the covariate-adjusted threshold-responsefunction and thresholds of protection"
+title: "Nonparametric Estimation of the Causal Effect of a Stochastic Threshold-based
+Intervention"
 collection: publications
 permalink: /publication/2020-Efficient-nonparametric-estimation
-date: 2021-3-01
+date: 2022-5-01
 venue: 'Biometrics'
-citation: 'Lars Van Der Laan, Wenbo Zhang and Peter Gilbert. 2020. &quot; Under review in <i>Biometrics</i>'
+citation: 'Lars Van Der Laan, Wenbo Zhang and Peter Gilbert. 2022. &quot; <i>Biometrics</i>'
 ---
 
