@@ -4,7 +4,7 @@ title: "Photos"
 permalink: /photos/
 author_profile: true
 ---
+My dog Boba （a very active and athleticCorgi!)
 
-![My dog Boba](/images/boba.jpeg)
-
+<img src="https:///images/boba.jpeg" width="200" height="200"/>
 
